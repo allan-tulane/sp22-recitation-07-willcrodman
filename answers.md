@@ -1,7 +1,7 @@
 # CMPS 2200 Recitation 7
 ## Answers
 
-**Name:**_________________________
+**Name:**____Will Rodman________
 
 
 Place all written answers from `recitation-07.md` here for easier grading.
