@@ -67,7 +67,7 @@ def huffman_cost(C, f):
     return cost
     
 
-f = get_frequencies('alice29.txt')
+f = get_frequencies('fields.c')
 print("Fixed-length cost:  %d" % fixed_length_cost(f))
 T = make_huffman_tree(f)
 C = get_code(T)
